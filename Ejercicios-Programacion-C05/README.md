@@ -2,7 +2,7 @@
 
 ### Ejercicio 01:
 
-Lo que se puede notar es que ambos procesos modifican su propia copia de la variable x.
+Ambos procesos modifican su propia copia de la variable X
 
 * [Ejercicio_01](punto1.c)
 
